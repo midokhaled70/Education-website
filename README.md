@@ -1,6 +1,3 @@
-Here's a `README.md` file tailored to your educational website project:
-
----
 
 # 🎓 TechEduca - Educational Website
 
