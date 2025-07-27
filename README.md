@@ -91,4 +91,4 @@ Educational-website/
 
 ## 📬 Contact
 
-Created by **Ahmed Kha**  
+Created by **Ahmed Khaled**  
